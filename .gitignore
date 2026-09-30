@@ -1,0 +1,29 @@
+# Entornos virtuales
+.env/
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configuracion local y secretos
+.env
+.env.*
+!.env.example
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Instaladores y binarios locales
+*.exe
+*.msi
+*.dll

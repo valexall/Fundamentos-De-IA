@@ -1,0 +1,5 @@
+# Sistema experto medico
+pyswip
+
+# Redes bayesianas
+pgmpy
