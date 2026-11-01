@@ -6,3 +6,8 @@ pgmpy
 
 # Preprocesamiento de imágenes
 opencv-python
+
+# Preprocesamiento de texto
+nltk
+spacy
+scikit-learn
