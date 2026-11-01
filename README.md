@@ -6,6 +6,7 @@ Ejercicios y proyectos del curso de Fundamentos de Inteligencia Artificial.
 
 - `redesBayesianas/`: ejemplos de redes bayesianas con `pgmpy`.
 - `SistemaExpertoSimulacion/`: simulador medico con Python, Tkinter y Prolog.
+- `preprocesamiento_imagenes/`: transformaciones y data augmentation con OpenCV.
 
 ## Requisitos
 

@@ -3,3 +3,6 @@ pyswip
 
 # Redes bayesianas
 pgmpy
+
+# Preprocesamiento de imágenes
+opencv-python
