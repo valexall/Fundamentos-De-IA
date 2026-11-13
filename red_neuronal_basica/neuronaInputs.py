@@ -1,10 +1,12 @@
 
 import random
+import pandas as pd
 
+dataset = pd.read_csv("data/datos_estudiantes.csv")
 
+x1 = dataset["horas_estudio"].values
+x2 = dataset["asistencia"].values
 
-x1 = random.randint(-10, 10)
-x2 = random.uniform(-10, 10)
 peso1 = random.uniform(-1,1)
 peso2 = random.uniform(-1,1)
 sesgo = random.uniform(-1,1)
